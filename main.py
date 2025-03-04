@@ -2,7 +2,7 @@ import feedparser, time
  
 URL = "https://3hongstore.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 8
+MAX_POST = 20
  
 markdown_text = """
 ## ✅ Latest Blog Post
