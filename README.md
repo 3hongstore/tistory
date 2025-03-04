@@ -1,6 +1,7 @@
 
 ## ✅ Latest Blog Post
  
+[2025/03/04 - 책 요약 by Grok3 [행동하지 않으면 인생은 바꾸지 않는다 -브라이언 트레이시-]](https://3hongstore.tistory.com/64) <br/>
 [2025/03/04 - Chatgpt와 함께 매일 영어공부_유머편](https://3hongstore.tistory.com/63) <br/>
 [2025/03/04 - Chatgpt와 함께 매일 영어공부_상식편](https://3hongstore.tistory.com/62) <br/>
 [2025/03/03 - 30일 챌린지_나는 35일 동안 매일 2분 플랭크를 했습니다.](https://3hongstore.tistory.com/61) <br/>
