@@ -1,6 +1,8 @@
 
 ## ✅ Latest Blog Post
  
+[2025/04/21 - Chatgpt와 매일영어_상식(콜롬비아)](https://3hongstore.tistory.com/213) <br/>
+[2025/04/21 - Chatgpt와 매일영어_유머(콜롬비아)](https://3hongstore.tistory.com/212) <br/>
 [2025/04/20 - Chatgpt와 매일영어_국제소식](https://3hongstore.tistory.com/211) <br/>
 [2025/04/20 - Chatgpt와 매일영어_연예소식](https://3hongstore.tistory.com/210) <br/>
 [2025/04/20 - 더 나은 삶을 위해...파레토분포](https://3hongstore.tistory.com/209) <br/>
@@ -9,5 +11,3 @@
 [2025/04/20 - Chatgpt와 매일영어_유머(싱가포르)](https://3hongstore.tistory.com/206) <br/>
 [2025/04/17 - Chatgpt와 매일영어_연예뉴스](https://3hongstore.tistory.com/205) <br/>
 [2025/04/17 - Chatgpt와 매일영어_국제뉴스](https://3hongstore.tistory.com/204) <br/>
-[2025/04/16 - The thoughtless action is the ideal one](https://3hongstore.tistory.com/203) <br/>
-[2025/04/16 - 뇌를 망치는 5가지 습관](https://3hongstore.tistory.com/202) <br/>
