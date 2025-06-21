@@ -1,6 +1,8 @@
 
 ## ✅ Latest Blog Post
  
+[2025/06/20 - 연예 소식](https://3hongstore.tistory.com/339) <br/>
+[2025/06/20 - 국제 소식](https://3hongstore.tistory.com/338) <br/>
 [2025/06/19 - 더 나은 삶을 위한 5가지 습관](https://3hongstore.tistory.com/337) <br/>
 [2025/06/18 - 상식 에티오피아](https://3hongstore.tistory.com/336) <br/>
 [2025/06/18 - 유머 에티오피아](https://3hongstore.tistory.com/335) <br/>
@@ -9,5 +11,3 @@
 [2025/06/18 - Ai와 매일영어_국제소식](https://3hongstore.tistory.com/332) <br/>
 [2025/06/15 - Ai와 매일영어_유머(스리랑카)](https://3hongstore.tistory.com/331) <br/>
 [2025/06/15 - Ai와 매일영어_상식(스리랑카)](https://3hongstore.tistory.com/330) <br/>
-[2025/06/13 - Ai와 매일영어_연예소식](https://3hongstore.tistory.com/329) <br/>
-[2025/06/13 - Ai와 매일영어_국제소식](https://3hongstore.tistory.com/328) <br/>
