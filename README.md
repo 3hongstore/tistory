@@ -1,6 +1,8 @@
 
 ## ✅ Latest Blog Post
  
+[2025/07/22 - 텅 빈 뇌(마음)를 채우는 방법](https://3hongstore.tistory.com/369) <br/>
+[2025/07/22 - 라트비아 상식과 유머](https://3hongstore.tistory.com/368) <br/>
 [2025/07/20 - 스스로에 대한 너무 많은 생각에 매몰되지 않기](https://3hongstore.tistory.com/367) <br/>
 [2025/07/20 - 슬로베니아 상식과 유머](https://3hongstore.tistory.com/366) <br/>
 [2025/07/19 - 리투아니아 상식과 유머](https://3hongstore.tistory.com/365) <br/>
@@ -9,5 +11,3 @@
 [2025/07/15 - 무의식의 어리석음](https://3hongstore.tistory.com/362) <br/>
 [2025/07/15 - 크로아티아 상식과 유머](https://3hongstore.tistory.com/361) <br/>
 [2025/07/13 - 불가리아 상식과 유머](https://3hongstore.tistory.com/360) <br/>
-[2025/07/12 - 룩셈부르크 상식과 유머](https://3hongstore.tistory.com/359) <br/>
-[2025/07/09 - 건강한 글쓰기 습관](https://3hongstore.tistory.com/358) <br/>
