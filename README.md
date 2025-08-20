@@ -1,6 +1,7 @@
 
 ## ✅ Latest Blog Post
  
+[2025/08/19 - 요르단 상식과 유머](https://3hongstore.tistory.com/397) <br/>
 [2025/08/18 - 투르크메니스탄 상식과 유머](https://3hongstore.tistory.com/396) <br/>
 [2025/08/15 - 벨라루스 리포트](https://3hongstore.tistory.com/395) <br/>
 [2025/08/15 - 아제르바이잔 상식과 유머](https://3hongstore.tistory.com/394) <br/>
@@ -10,4 +11,3 @@
 [2025/08/10 - 몰디브 상식과 유머](https://3hongstore.tistory.com/390) <br/>
 [2025/08/09 - 보스니아 헤르체고비나 리포트](https://3hongstore.tistory.com/389) <br/>
 [2025/08/09 - '모른다'고 말할 수 있는 용기](https://3hongstore.tistory.com/388) <br/>
-[2025/08/09 - 마케도니아 상식과 유머](https://3hongstore.tistory.com/387) <br/>
